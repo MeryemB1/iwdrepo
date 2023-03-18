@@ -1,38 +1,135 @@
-.App {
-  text-align: center;
+.App{
+  width: 100%;
+  display: block;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+#back{
+  width: 100%;
+  position:absolute;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+.hero{
+  position: absolute;
+  top:10%;
+  display:flex;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  align-items: center;
+  flex-direction: row;
+  width: 100%;
+  height: 90%;
+ 
+
+}
+.About2{
+  padding-top: 8%;
+  position: absolute;
+  top:170%;
+  display: flex;
+  justify-content: center;
+}
+.About{
+  padding: 10%;
+  display: flex;
+  position: absolute;
+  
+  width: 80%;
+  top: 100%;
+}
+.description{
+  width: 30%;
+  
+}
+.About2 h3{
+  font-weight: 400;
+}
+.description2{
+  width: 30%;
+}
+.description h3{
+  font-weight: 400;
+}
+#easy{
+  width: 80%;
+}
+#mockup {
+  width: 70%;
+}
+#moc{
+  width: 70%;
+margin-left: 20%
+;}
+
+#avatar{
+  width:90%;
+}
+.photo{
+  width: 50%;
+}
+.Nav{
+  position: absolute;
+  top:0;
+  display: flex;
+  align-items: center;
+  justify-content: baseline;
+  
+  width: 100%;
+  height: 10%;
+}
+.Nav a{
+ 
+  margin-right: 5%;
+  font-weight: 600;
+  opacity: 70%;
+
+}
+#logo{
+  
+  margin-top: 1%;
+  width: 60%;
+  margin-left: 5%;
+}
+.imglogo{
+  margin-left: 5%;
+}
+#sign{
+  position: absolute;
+  top:20%;
+  right: 3%;
+  width:90px;
+  cursor: pointer;
+  height: 30px;
+  background-color: white;
+  border-radius: 30px;
+  border: none;
+
+}
+.text-field{
+  width: 40%;
+  padding-left: 20%;
+  margin-right: 2%;
+}
+#start{
+  width: 35%;
+  margin-top: 5%;
+  height: 35px;
+  border-radius: 35px;
+  border: none;
+  background-color: #86DED0;
+  font-weight: 600;
+  font-family: Poppins;
+  cursor: pointer;
+}
+.text-field h1{
+  font-weight: 500;
+  font-size: 40px;
+  width: 70%;
+}
+.text-field h3{
+  
+  width: 70%;
+  font-weight: 400;
+}
+#tiret{
+  width: 20%;
 }
 
-.App-link {
-  color: #61dafb;
-}
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
+
