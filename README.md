@@ -23,5 +23,5 @@ Our system is destinated to help doctors in their work , With the system, doctor
 
 ## Screenshots
 
-![App Screenshot](https://imgur.com/cT2BkFQ)
+![App Screenshot](https://imgur.com/a/ywblwcR)
 
