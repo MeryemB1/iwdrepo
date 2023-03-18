@@ -1,70 +1,27 @@
-# Getting Started with Create React App
+# VITA
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Our system is destinated to help doctors in their work , With the system, doctors can store and track patients' medical records in a database, making it easy to access their medical history anytime, anywhere, all they need is just finger prints of their patients ,It also allows for easy updates and additions to each patient's record, ensuring that the information is always current,offering prediction service of the disease based on previous symptoms and patient's medical history.
 
-## Available Scripts
+## Acknowledgements
 
-In the project directory, you can run:
+ - [Figman Prototype](https://www.figma.com/file/lt6v4my3MjPTyBf6Bn8PLd/IWD-VITA?node-id=3-7&t=EM6BXgZvzIk7tG10-0)
 
-### `npm start`
+ - [Presentation](https://app.pitch.com/app/presentation/e6568f09-1560-4883-9278-936ed216d3ce/e5701df9-9cf9-451d-a96d-f24434e55149)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lqiduoqp57kyi9jvn71f.png)
 
-### `npm test`
+## Color Reference
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+| Color             | Hex                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| Example Color | ![#86DED0](https://via.placeholder.com/10/86DED0?text=+) #0a192f |
+| Example Color | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
+| Example Color | ![#80D9FB](https://via.placeholder.com/10/80D9FB?text=+) #00b48a |
+| Example Color | ![#000000](https://via.placeholder.com/10/000000?text=+) #00d1a0 |
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Screenshots
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![App Screenshot](https://imgur.com/a/nSdumnJ)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
