@@ -23,5 +23,15 @@ Our system is destinated to help doctors in their work , With the system, doctor
 
 ## Screenshots
 
-![App Screenshot](https://imgur.com/a/ywblwcR)
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/swgdgew62wuqjqdwg2y4.png)
+
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hu642pfrfhi9cjw53cl3.png)
+
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6pro0ib2x38h99yetk6k.png)
+
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zfe5ykoj7ohz3o60f7b3.png)
+
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dzo4afwike9ok6efogyi.png)
+
+
 
