@@ -8,6 +8,9 @@ import mockup from './assets/mockup.png';
 import easy from './assets/easy.png';
 import moc from './assets/mockup2.png';
 import secure from './assets/secure.png';
+import finger from './assets/finger.png';
+import track from './assets/track.png';
+import ai from './assets/ai.png';
 function App() {
   return (
     <div className="App">
@@ -18,8 +21,8 @@ function App() {
       
       </div>
       
-      <a>Help</a>
-      <a>About Us </a>
+      <a href="#">Help</a>
+      <a href="#">About Us </a>
       <div>
       <button id="sign">Sign In</button>
       </div>
@@ -66,6 +69,36 @@ it with just one finger print  </h3>
         </div>
        
 
+      </div>
+      <div className="Services">
+        <h1>Our Services</h1>
+        
+
+      </div>
+
+      <div className="Feature">
+        <div className="secure">
+          <img src={finger} id="finger"/>
+          <h2>Secure Access</h2>
+          <h3>with fingerprint access</h3>
+        </div>
+        <div className="track">
+        <img src={track} id="finger"/>
+        <h2>Tracking medical
+history</h2>
+<h3>including diagnosis, treatment</h3>
+        </div>
+        <div className="ai">
+        <img src={ai} id="finger"/>
+        <h2>Intelligent system</h2>
+        <h3>to help  doctor make better decisions</h3>
+        </div>
+
+        
+
+      </div>
+      <div className="fouter">
+        <h3>©2023 - VITA, Inc.Term&Conditions.figma</h3>
       </div>
       
     </div>
