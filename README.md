@@ -6,7 +6,6 @@ Our system is destinated to help doctors in their work , With the system, doctor
 
  - [Figman Prototype](https://www.figma.com/file/lt6v4my3MjPTyBf6Bn8PLd/IWD-VITA?node-id=3-7&t=EM6BXgZvzIk7tG10-0)
 
- - [Presentation](https://app.pitch.com/app/presentation/e6568f09-1560-4883-9278-936ed216d3ce/e5701df9-9cf9-451d-a96d-f24434e55149)
  
  - [website](https://iwdrepo.vercel.app/)
 
